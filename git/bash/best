@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Best School"
+=======
+echo "This School is so cool bro!"
+>>>>>>> master
